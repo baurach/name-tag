@@ -38,6 +38,10 @@ button {
     padding: 5px;
 }
 
+.language {
+   
+}
+
 .name-tag {
     margin-top: 20px;
     width: 400px;
@@ -45,6 +49,7 @@ button {
     background:rgb(254, 59, 59);
     color:white;
     text-align:center;
+    border-radius: 25px;
 }
 
 h1 {
@@ -63,4 +68,8 @@ h1 {
     color:black;
     padding: 18px;
     font-size: 30px;
+}
+
+.purple {
+    color:blueviolet;
 }
